@@ -1,5 +1,6 @@
 # Projects
-Student Name
+Julio Cano
+
 Project #1
 http://eve.kean.edu/~canoju/project1/project1.html
 
